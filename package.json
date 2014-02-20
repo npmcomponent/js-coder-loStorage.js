@@ -1,12 +1,13 @@
 {
-	"name": "loStorage.js",
-	"version": "1.1.0",
-	"private": true,
-	"scripts": {
-		"test": "grunt test"
-	},
-	"devDependencies": {
-		"grunt": "~0.3",
-		"grunt-jasmine-task": "~0.2"
-	}
+  "name": "js-coder-lostorage.js",
+  "description": "Client-side storage the way it should be – using the HTML5 localStorage API.",
+  "version": "1.1.0",
+  "keywords": [
+    "storage",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "main": "src/loStorage.js",
+  "dependencies": {},
+  "license": "MIT"
 }
